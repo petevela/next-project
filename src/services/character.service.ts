@@ -1,4 +1,4 @@
-import { CharacterResponse } from '@/types/character.type'
+import { CharacterResponse } from '@/types/character.types'
 
 export const fetchCharacters = async() => {
     try{
